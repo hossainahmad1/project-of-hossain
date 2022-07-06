@@ -1,0 +1,158 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.anchor-declaration {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 900px;
+    border: 2px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.optional {
+    text-align: center;
+    color: white;
+    background-image: url(donation4.jpg);
+    border-radius: 10px;
+    height: 500px;
+}
+
+.donate-today {
+    text-align: center;
+    margin: 70px;
+}
+
+.section {
+    margin: 70px;
+}
+
+.donate-option {
+    text-align: center;
+}
+
+.blog {
+    font-size: 30px;
+    padding: 15px;
+}
+
+.a {
+    display: inline-block;
+    border: 2px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    padding: 20px;
+    margin: 25px;
+}
+
+.box {
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.amount {
+    color: gray;
+}
+
+.donate-plan {
+    display: flex;
+    margin: 50px;
+}
+
+.food {
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 5px;
+    height: 200px;
+    padding: 100px 20px;
+}
+
+.shelter {
+    background-color: burlywood;
+    margin: 10px;
+    border-radius: 5px;
+    height: 200px;
+    padding: 100px 20px;
+}
+
+.Education {
+    background-color: darkkhaki;
+    margin: 10px;
+    border-radius: 5px;
+    height: 200px;
+    padding: 100px 20px;
+}
+
+.anchor-tag {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.divition {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.hossain {
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.train-img {
+    border: 2px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.doantio {
+    height: 50%;
+    border-radius: 10px;
+}
+
+.second-text {
+    padding-right: 20px;
+}
+
+.section-email {
+    margin: 80px;
+}
+
+.form-bag {
+    background-color: burlywood;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.subscribe {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    padding: 2px;
+    border-radius: 2px;
+    font-size: 12px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+}
+
+.foot-color {
+    color: brown;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footpa-color {
+    color: gray;
+}
